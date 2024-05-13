@@ -4,7 +4,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavsoni109&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavsoni109" /> </p>
 
-- 🌱 I’m currently learning **React and Next js**
+- 🌱 I’m currently learning **React js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vaibhavsoni109](https://github.com/Vaibhavsoni109)
 
